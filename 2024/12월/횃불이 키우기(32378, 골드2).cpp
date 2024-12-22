@@ -1,4 +1,4 @@
-// https://www.acmicpc.net/problem/32378 : È¶ºÒÀÌ Å°¿ì±â, 32378 (c++) 
+ï»¿// https://www.acmicpc.net/problem/32378 : íšƒë¶ˆì´ í‚¤ìš°ê¸°, 32378 (c++) 
 
 #include <iostream>
 #include <vector>
@@ -30,7 +30,7 @@ int main(void)
 		int temp;
 		cin >> temp;
 
-		// »çÀÌÁî ¹è¿­¿¡ Ãß°¡
+		// ì‚¬ì´ì¦ˆ ë°°ì—´ì— ì¶”ê°€
 		upSize.push_back(temp);
 	}
 
